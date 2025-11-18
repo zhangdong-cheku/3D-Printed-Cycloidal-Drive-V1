@@ -28,6 +28,10 @@ The project's objective is to provide a reliable, high-performance, and easily a
 *   **高扭矩密度**：紧凑的结构设计，在狭小空间内实现大的输出扭矩。
 *   **高刚性 & 抗冲击**：多齿同时啮合，承载能力强，适用于高动态负载场景。
 *   **长寿命与高可靠性**：关键部件采用高强度轴承钢并经特殊热处理，耐磨性好。
+*   **High precision and zero backlash**: Precise tooth profile optimization and manufacturing processes ensure smooth transmission and accurate positioning.
+*   **High torque density**: Compact structural design achieves large output torque in a confined space.
+*   **High rigidity & impact resistance**: Multiple teeth mesh simultaneously, with strong load-bearing capacity, suitable for high dynamic load scenarios.
+*   **Long service life and high reliability**: Key components are made of high-strength bearing steel and undergo special heat treatment, featuring excellent wear resistance.
 ---
 
 ##  技术规格
