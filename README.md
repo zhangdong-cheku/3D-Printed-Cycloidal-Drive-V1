@@ -17,6 +17,10 @@
 
 项目目标是为开源社区和工业界提供一个可靠、高性能、易于获取的减速器解决方案，推动先进机器人的创新与普及。
 
+CycloidalReducer100 is a high-precision reducer that has been deeply optimized and replicated for the cycloidal drive solution in the Berkeley open-source robotics project. It adopts the classic cycloidal pinwheel meshing principle and features high torque density, zero backlash, and long service life. It is specially designed for scenarios with extremely high requirements for transmission performance, such as robot joints, precision turntables, and automated equipment.
+
+The project's objective is to provide a reliable, high-performance, and easily accessible reducer solution for the open-source community and industry, promoting the innovation and popularization of advanced robots.
+
 ---
 
 ##  核心特性
