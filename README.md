@@ -88,6 +88,9 @@ The project's objective is to provide a reliable, high-performance, and easily a
 *   首次使用前，加注适量的 **ISO VG 220** 工业齿轮油至油窗中线。
 *   每运行 2000 小时或一年后更换润滑油。
 
+## 致谢
+“感谢项目组成员岳国文，田宇鑫在项目迭代与数据处理中做出的贡献，感谢张东老师在项目方案上的精准指导，也感谢项目组其他成员的通力协作。”
+
 ## 加入社区
 扫一扫，加入QQ群，一起手搓机器人
 
